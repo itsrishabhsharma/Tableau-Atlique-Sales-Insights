@@ -1,4 +1,7 @@
-## Sales Insights Data Analysis Project using Tableau and SQL
+## Sales Insights Data Analysis Project using Tableau
+
+Created a sales insights data analysis project using tableau. The case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build Tableau dashboard that can give him real time sales insights. 
+The company's problem statement has been solved using this project.
 
 Profit Analysis Dashboard
 ![Profit Analysis Dashboard](https://user-images.githubusercontent.com/48985776/231738104-0b2b4fe9-159a-4fed-a2c0-ede8941b26d9.png)
