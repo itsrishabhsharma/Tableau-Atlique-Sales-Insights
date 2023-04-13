@@ -1,5 +1,11 @@
 ## Sales Insights Data Analysis Project using Tableau and SQL
 
+Profit Analysis Dashboard
+![Profit Analysis Dashboard](https://user-images.githubusercontent.com/48985776/231738104-0b2b4fe9-159a-4fed-a2c0-ede8941b26d9.png)
+
+Revenue Analysis Dashboard
+![Revenue Analysis Dashboard](https://user-images.githubusercontent.com/48985776/231738169-03ead19a-9520-451e-8df6-485b9e6bdc51.png)
+
 ### Instructions to setup mysql on your local computer
 
 1. Follow step in this video to install mysql on your local computer
